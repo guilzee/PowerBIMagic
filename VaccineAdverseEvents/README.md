@@ -4,9 +4,8 @@ Ever wondered what vaccine adverse event data can tell us about safety trends an
 
 This README takes you behind the scenes to show how it all came together—from raw data to polished visuals—and what the numbers are saying.  
 
----
-
 ## **Vaccine Adverse Events Power BI Dashboard**
+![](https://github.com/guilzee/PowerBIMagic/blob/main/VaccineAdverseEvents/images.videos/VAERSdashboard.png)
 
 ## **The Big Picture**
 
