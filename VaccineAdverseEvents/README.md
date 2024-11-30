@@ -4,6 +4,7 @@ Ever wondered what vaccine adverse event data can tell us about safety trends an
 
 This README takes you behind the scenes to show how it all came together—from raw data to polished visuals—and what the numbers are saying.  
 
+
 ## **Vaccine Adverse Events Power BI Dashboard**
 ![](https://github.com/guilzee/PowerBIMagic/blob/main/VaccineAdverseEvents/images.videos/VAERSdashboard.png)
 
@@ -37,7 +38,7 @@ Next, I turned to Excel’s **Power Query** tool to clean and combine the data:
 - Added a column to label gender in each table.  
 - Created a static column for the country (all reports are from the U.S.).  
 - Appended the male and female datasets into a single table.  
-- Saved the final dataset as an Excel file for use in Power BI.  
+- Saved the final dataset as an ![Excel file](https://github.com/guilzee/PowerBIMagic/blob/main/VaccineAdverseEvents/VAERS%20Data.xlsx) for use in Power BI.  
 
 ### 3. **Building the Dashboard**  
 With the data ready, I used Power BI to create the visuals:  
